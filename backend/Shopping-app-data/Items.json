@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "subcategory_type_name":"T-Shirts",
+        "title": "t-shirt",
+        "price": 109.95,
+        "description": "V neck T-Shirt",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "subcategory_type_name":"T-Shirts",
+        "title": "t-shirt",
+        "price": 109.95,
+        "description": "Round neck T-Shirt",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 3,
+        "subcategory_type_name":"T-Shirts",
+        "title": "t-shirt",
+        "price": 109.95,
+        "description": "Full Sleeve T-Shirt",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":4.5,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "subcategory_type_name":"Pants",
+        "title": "Pants",
+        "price": 109.95,
+        "description": "Regular Pants",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":4.2,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "subcategory_type_name":"Pants",
+        "title": "Pants",
+        "price": 109.95,
+        "description": "Casual Pants",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":4.0,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "subcategory_type_name":"Pants",
+        "title": "Pants",
+        "price": 109.95,
+        "description": "Cargo Pant",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":3.0,
+            "count": 120
+        }
+    },
+    {
+        "id": 7,
+        "subcategory_type_name":"Shoes",
+        "title": "Shoes",
+        "price": 109.95,
+        "description": "Nike",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":4.1,
+            "count": 120
+        }
+    },
+    {
+        "id": 8,
+        "subcategory_type_name":"Shoes",
+        "title": "Shoes",
+        "price": 109.95,
+        "description": "Jordan",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":4.2,
+            "count": 120
+        }
+    },
+    {
+        "id": 8,
+        "subcategory_type_name":"Shoes",
+        "title": "Shoes",
+        "price": 109.95,
+        "description": "Converse",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate":3.8,
+            "count": 120
+        }
+    }
+]

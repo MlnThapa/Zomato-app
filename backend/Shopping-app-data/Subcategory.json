@@ -1,0 +1,114 @@
+[
+    {
+        "category_id":1,
+        "subcategory_id":1,
+        "subcategory_name":"cloth",
+        "subcategory_types":[
+            {
+                "subcategory_type_id":1,
+                "subcategory_type_name":"T-Shirts"
+            },
+            {
+                "subcategory_type_id":2,
+                "subcategory_type_name":"Pants"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Shoes"
+            }
+        ]
+    },
+    {
+        "category_id":2,
+        "subcategory_id":2,
+        "subcategory_name":"electronics",
+        "subcategory_types":[
+            {
+                "subcategory_type_id":1,
+                "subcategory_type_name":"Laptop"
+            },
+            {
+                "subcategory_type_id":2,
+                "subcategory_type_name":"Smartphone"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Smartwatch"
+            },
+            {
+                "subcategory_type_id":4,
+                "subcategory_type_name":"Computer Accessories"
+            }
+        ]
+    },
+    {
+        "category_id":3,
+        "subcategory_id":3,
+        "subcategory_name":"grocery",
+        "subcategory_types":[
+            {
+                "subcategory_type_id":1,
+                "subcategory_type_name":"Dry Fruits"
+            },
+            {
+                "subcategory_type_id":2,
+                "subcategory_type_name":"Chocolates"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Tea"
+            },
+            {
+                "subcategory_type_id":4,
+                "subcategory_type_name":"Oil"
+            }
+        ]
+    },
+    {
+        "category_id":4,
+        "subcategory_id":4,
+        "subcategory_name":"Books",
+        "subcategory_types":[
+            {
+                "subcategory_type_id":1,
+                "subcategory_type_name":"Best Selers"
+            },
+            {
+                "subcategory_type_id":2,
+                "subcategory_type_name":"New Releases"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Expert Pick"
+            },
+            {
+                "subcategory_type_id":4,
+                "subcategory_type_name":"Horror"
+            }
+
+        ]
+    },
+    {
+        "category_id":5,
+        "subcategory_id":5,
+        "subcategory_name":"pharmacy",
+        "subcategory_types":[
+            {
+                "subcategory_type_id":1,
+                "subcategory_type_name":"Medicines"
+            },
+            {
+                "subcategory_type_id":2,
+                "subcategory_type_name":"Medical devices"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Ayurveda"
+            },
+            {
+                "subcategory_type_id":3,
+                "subcategory_type_name":"Pain Relief"
+            }
+        ]
+    }
+]

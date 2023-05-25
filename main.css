@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@300;600;700&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #FBFBFB;
+}
+
+header{
+    height:80px;
+    width:auto;
+    background:#CE0505;
+    position:relative;
+}
+/* @media screen and (max-width: 1200px) {
+    header{
+        width: 100vw;
+        background: blue;
+    }
+  } */
+
+.logo{
+    height:50px;
+    width:50px;
+    background: #fff;
+    border-radius: 50%;
+    padding:0 11px;
+    position: absolute;
+    top:11px;
+    left:80px;
+}
+
+.logo a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 2em;
+    color:#CE0505;
+}
+
+.login-signup{
+    position:absolute;
+    left:75%;
+    top:20px;
+}
+
+.login{
+    text-decoration:none;
+    color:#fff;
+    letter-spacing: 1px;
+    padding:0 20px ;
+}
+.create-account{
+    text-decoration:none;
+    color:#fff;
+    border: 1px solid #fff;
+    padding:10px 10px;
+}
+
+section{
+    position:relative;
+}
+
+.title{
+    position:absolute;
+    height:60px;
+    width:514px;
+    font-weight: 600;
+    font-size: 2em;
+    left:80px;
+    top:30px;
+    color:#192F60;
+}
+
+.filter{
+    position:absolute;
+    height:662px;
+    width:260px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    top:100px;
+    left:80px;
+}
+.result1{
+    position:absolute;
+    top: 100px;
+    left: 400px;
+    width: 794px;
+    height: 250px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.result2{
+    position:absolute;
+    top: 410px;
+    left: 400px;
+    width: 794px;
+    height: 250px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.select-location{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.select-location p{
+    font-size: 0.9em;
+    margin-top: 5px;
+    color: #192F60;
+}
+.select-location input{
+    margin-top: 5px;
+    width:190px;
+    height:30px;
+    border:1px solid #8C96AB;
+}
+
+.select-location input::placeholder{
+    font-size: 0.9em;
+    color: #192F60;
+    opacity: 0.7;
+    padding: 0 15px;
+}
+
+.cuisine{
+    margin-top:30px;
+    margin-left: 20px;
+}
+.cuisine p{
+    font-size: 0.9em;
+    color: #192F60;
+}
+
+.cuisine input{
+    margin-top: 10px;
+    color: #8C96AB;
+    accent-color: #192F60;
+}
+.cuisine label{
+    font-size: 0.8em;
+    color: #8C96AB;
+}
+.cost-for-two{
+    margin-top:30px;
+    margin-left: 20px;
+    accent-color: #192F60;
+}
+
+.cost-for-two p{
+    font-size: 0.9em;
+    color: #192F60;
+}
+
+.cost-for-two label{
+    font-size: 0.8em;
+    color: #8C96AB;
+    padding:0 7px;
+}
+
+.sort{
+    margin-top:30px;
+    margin-left: 20px;
+    accent-color: #192F60;
+}
+
+.sort h5{
+    font-size: 0.9em;
+    color: #192F60;
+}
+
+.sort label{
+    font-size: 0.8em;
+    color: #8C96AB;
+    padding:0 7px;
+}
+
+.food-details{
+    height:50%;
+    width:67.5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.food-details img{
+    height:100px;
+    width:100px;
+    border-radius: 20px;
+}
+
+.food-title{
+    color: #192F60;
+    letter-spacing: 1px;
+    font: normal normal 600 30px/46px Poppins;
+}
+.location1{
+    font-size: 0.8em;
+    color: #192F60;
+}
+
+.location2{
+    color: #636F88;
+    font-size: 0.8em;;
+}
+
+.horizontal-line{
+    height:1px;
+    width:90%;
+    background:#DEDFE5;
+    margin-left: 5%;
+}
+
+.cuisine-bottom{
+    height:10%;
+    width:35%;
+    margin-left: 5%;
+    display: flex;
+}
+
+.food1{
+    color:#636F88;
+    font-size: 0.8em;
+}
+.food2{
+    margin-left: 20%;
+    color:#192F60;
+    font-size: 0.8em;
+}
+
+.pagination{
+    position:absolute;
+    display: inline-block;  
+    top: 700px;
+    left: 600px;   
+}
+.pagination a{
+    border: 1px solid #8C96AB; 
+    border-radius: 5px;
+    padding: 8px 15px;
+    margin: 3px;
+    font-size: 0.8em;
+    color: #8C96AB;
+    text-decoration: none;
+}
+
