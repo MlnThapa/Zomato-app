@@ -1,0 +1,15 @@
+1)Page1
+-List of category of shopping item
+-List of items with respect to category selected
+
+2)Page 2
+-Filter items wrt price, brands
+
+3)Page 3
+-Details of the item selected
+-move to cart
+
+4)Page 4
+-List of all the items selected, 
+-Delete item 
+-Add item
